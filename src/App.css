@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+}
+.hello{
+    background-image: url('/Images/pexels-bich-tran-669996.jpg');
+    height: 100vh;
+    width: 100% ;
+}
+.main{
+    list-style-type: none;
+    color: white;
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    display: flex;
+    cursor: pointer;
+}
+.last-item{
+    position: relative;
+    background: linear-gradient(90deg,  rgba(199,194,32,1) 5%  100%);
+    padding: 7px;
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
+.image{
+background-image: url('https://freesvg.org/img/Logo-Logo-White-with-Black-Background.png');
+    background-size: 10vh 10vw;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 20vh;
+}
+.h1{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+p{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+}
+button{
+    color: white;
+}
+.button1{
+    text-align: center;
+}
+.border1{
+border-radius: 20px;
+}
